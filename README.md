@@ -8,7 +8,7 @@ Ce projet est une visualisation interactive d'une liste chaînée dans OpenFrame
 
 1. Clonez ce dépôt :
     ```sh
-    git clone https://github.com/votre-utilisateur/LinkedListVisualizer.git
+    git clone https://github.com/votre-utilisateur/LinkedListVisualizer7.git
     ```
 2. Ouvrez le projet dans votre environnement de développement OpenFrameworks.
 3. Compilez et exécutez le projet.
